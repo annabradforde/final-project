@@ -1,0 +1,42 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+
+.navbar-brand {
+	font-size: 25px;
+	font-family: "IBM Plex Sans Condensed", sans-serif;
+	color: hotpink;
+}
+
+.nav-item {
+	font-family: "IBM Plex Sans Condensed", sans-serif;
+	color: hotpink;
+	}
+
+.nav-link {
+	color: hotpink;
+}
+
+
+.accordian {
+	background-color: hotpink;
+}
+
+h1 {
+	color: hotpink;
+	padding-top: 30px;
+	font-family: "IBM Plex Sans Condensed", sans-serif;
+}
+
+h2 {
+	font-family: "IBM Plex Sans Condensed", sans-serif;
+	color: hotpink;
+}
+
+p {
+	color: black;
+}
+
+
+.card {
+	text-align: center;
+}
+
